@@ -1,42 +1,41 @@
 # آلورچی
 
-آلورچی خانهٔ فروشگاه‌هایی است که به بازار آلور وصل می‌شوند. عنوان صفحهٔ [alwerchi.ir](https://alwerchi.ir) این است: «آلورچی | فروشگاه‌ها برای آلور». متن همان صفحه می‌گوید فروشگاه وردپرسی یا ویترین وصل می‌شود تا کالا و موجودی در بازار آلور دیده شود. خریدار در آلور می‌ماند. همیاری و بررسی آگهی را همان صفحه روی آلوریار می‌گذارد.
+من آلورچی را خانهٔ فروشگاه‌هایی گذاشتم که به بازار آلور وصل می‌شوند. عنوان صفحهٔ [alwerchi.ir](https://alwerchi.ir) این است: «آلورچی | فروشگاه‌ها برای آلور». همان صفحه می‌گوید فروشگاه وردپرسی یا ویترین وصل می‌شود تا کالا و موجودی در بازار آلور دیده شود. خریدار در آلور می‌ماند. همیاری و بررسی آگهی را همان صفحه روی آلوریار گذاشته است.
 
 بازار: [alwer.ir](https://alwer.ir). همکاران: [alweryar.ir](https://alweryar.ir).
 
-پیوندهای روی همان صفحه، بدون شرح محتوای مقصد: [مرکز راهنما](https://alwerchi.ir/help)، پیوندی با برچسب «افزونه و ابزار» به [alwerchi.ir/download](https://alwerchi.ir/download)، [دربارهٔ آلورچی](https://alwerchi.ir/about)، [آلوریار](https://alweryar.ir/)، [بازار آلور](https://alwer.ir/). برچسب «افزونه و ابزار» نام یک کتابخانه یا مخزن کد نیست.
+پیوندهای روی همان صفحه: [دربارهٔ آلورچی](https://alwerchi.ir/about)، پیوندی با برچسب «افزونه و ابزار» به [alwerchi.ir/download](https://alwerchi.ir/download)، [آلوریار](https://alweryar.ir/)، [بازار آلور](https://alwer.ir/). برچسب «افزونه و ابزار» نام یک کتابخانه یا مخزن کد نیست.
 
-زبان، چارچوب، و پایگاه داده روی سایت عمومی منتشر نشده است. این مخزن کد محصول ندارد. نام کتابخانه اینجا نیامده است.
+مخزن محصول جدا برای آلورچی ندارم. زبان، چارچوب و پایگاه داده را روی سایت عمومی ننوشته‌ام، پس اینجا هم نام نمی‌برم.
 
 ## English
 
-Alwerchi is the home of shops that connect to Alwer. The title on [alwerchi.ir](https://alwerchi.ir) is "آلورچی | فروشگاه‌ها برای آلور". That page says a WordPress shop or a storefront is connected so goods and stock appear on the Alwer marketplace. The buyer stays on Alwer. The same page places listing-review collaboration on Alweryar.
+I built Alwerchi as the home of shops that connect to Alwer. The title on [alwerchi.ir](https://alwerchi.ir) is "آلورچی | فروشگاه‌ها برای آلور". That page says a WordPress shop or a storefront is connected so goods and stock appear on the Alwer market. The buyer stays on Alwer. The same page places listing-review collaboration on Alweryar.
 
-Marketplace: [alwer.ir](https://alwer.ir). Collaborators: [alweryar.ir](https://alweryar.ir).
+Market: [alwer.ir](https://alwer.ir). Collaborators: [alweryar.ir](https://alweryar.ir).
 
-Links on that homepage, without a description of the destination pages: [help](https://alwerchi.ir/help), a link labeled «افزونه و ابزار» to [alwerchi.ir/download](https://alwerchi.ir/download), [about](https://alwerchi.ir/about), [Alweryar](https://alweryar.ir/), [Alwer](https://alwer.ir/). The label «افزونه و ابزار» is not a library name and not a source repository.
+Links on that page: [about](https://alwerchi.ir/about), a link labeled «افزونه و ابزار» to [alwerchi.ir/download](https://alwerchi.ir/download), [Alweryar](https://alweryar.ir/), and [the Alwer market](https://alwer.ir/). The label «افزونه و ابزار» is not a library name and not a source repository.
 
-The public site does not publish a language, framework, or data store. This repository does not contain product source. No library is named here.
+I do not have a separate product repository for Alwerchi. The public site does not name a language, a framework, or a data store, so I am not naming one here.
 
 ## پروژه‌های مرتبط
 
-- [hamejoo-intro](https://github.com/mnhashemabadi/hamejoo-intro): همه‌جو نتیجهٔ جستجوی آگهی را یک‌جا نشان می‌دهد و جزئیات آگهی روی منبع اصلی می‌ماند.
-- [alwer-intro](https://github.com/mnhashemabadi/alwer-intro): آلور بازار نیازمندی است؛ درخواست خرید ثبت می‌شود، فروشنده پیشنهاد قیمت می‌فرستد، و آگهی فروش هم در همان بازار است.
-- [kasbafzar-intro](https://github.com/mnhashemabadi/kasbafzar-intro): کسب‌افزار پیشخوان فروش و گزارش مالی است؛ فروش، مشتری و هزینه ثبت می‌شود و فاکتور می‌تواند لینک پرداخت داشته باشد.
-- [azadchi-intro](https://github.com/mnhashemabadi/azadchi-intro): آزادچی بازار نیازمندی مناطق آزاد و ویژهٔ اقتصادی است؛ آگهی در همان محدوده جستجو می‌شود و گفتگو داخل همان محصول است.
-- [afzi-intro](https://github.com/mnhashemabadi/afzi-intro): افزی یک نشانی http یا https را به لینک کوتاه تبدیل می‌کند و باز کردن آن لینک به همان صفحه می‌رود.
-- [alweryar-intro](https://github.com/mnhashemabadi/alweryar-intro): آلوریار شبکهٔ همکاران آلور برای بررسی آگهی و همکاری در فروش است.
+- [hamejoo-intro](https://github.com/mnhashemabadi/hamejoo-intro): همه‌جو را برای بازدیدکننده‌ای گذاشتم که با یک عبارت آگهی را یک‌جا ببیند و برای جزئیات به سایت منبع برود.
+- [alwer-intro](https://github.com/mnhashemabadi/alwer-intro): آلور را برای خریداری گذاشتم که درخواست بنویسد و پیشنهاد قیمت‌ها را کنار هم ببیند؛ آگهی فروش هم روی همان بازار است.
+- [kasbafzar-intro](https://github.com/mnhashemabadi/kasbafzar-intro): کسب‌افزار را برای کسی گذاشتم که فروش و مشتری و هزینه را ثبت کند و فاکتور را با لینک پرداخت برای مشتری بفرستد.
+- [azadchi-intro](https://github.com/mnhashemabadi/azadchi-intro): آزادچی را برای آگهی و جستجو در مناطق آزاد گذاشتم؛ گفتگو با طرف معامله داخل خود آزادچی می‌ماند.
+- [afzi-intro](https://github.com/mnhashemabadi/afzi-intro): افزی را برای کوتاه کردن یک نشانی http یا https گذاشتم؛ باز کردن لینک همان صفحه را باز می‌کند.
+- [alweryar-intro](https://github.com/mnhashemabadi/alweryar-intro): آلوریار را برای همکاری در بررسی آگهی و همکاری در فروش آلور گذاشتم.
 
 ## Related
 
-- [hamejoo-intro](https://github.com/mnhashemabadi/hamejoo-intro): Hamejoo shows listing search results in one place, and the listing detail stays on the original source.
-- [alwer-intro](https://github.com/mnhashemabadi/alwer-intro): Alwer is a classifieds marketplace: a buyer posts a request, sellers send price offers, and a sale listing can be posted on the same market.
-- [kasbafzar-intro](https://github.com/mnhashemabadi/kasbafzar-intro): Kasbafzar is a sales desk and a financial report: sales, customers, and expenses are recorded, and an invoice can carry a payment link.
-- [azadchi-intro](https://github.com/mnhashemabadi/azadchi-intro): Azadchi is a classifieds market for free zones and special economic zones: listings are searched in that area, and the conversation stays in the product.
-- [afzi-intro](https://github.com/mnhashemabadi/afzi-intro): Afzi turns an http or https address into a short link, and opening that link goes to the same page.
-- [alweryar-intro](https://github.com/mnhashemabadi/alweryar-intro): Alweryar is Alwer's collaborator network for listing review and for sales collaboration.
+- [hamejoo-intro](https://github.com/mnhashemabadi/hamejoo-intro): I built Hamejoo for a visitor who types one phrase, sees listings in one place, and opens the original site for the listing itself.
+- [alwer-intro](https://github.com/mnhashemabadi/alwer-intro): I built Alwer for a buyer who posts a request and compares price offers side by side; a sale listing sits on the same market.
+- [kasbafzar-intro](https://github.com/mnhashemabadi/kasbafzar-intro): I built Kasbafzar for someone who records sales, customers, and expenses, and sends the customer an invoice with a payment link.
+- [azadchi-intro](https://github.com/mnhashemabadi/azadchi-intro): I built Azadchi for listings and search inside free zones; the conversation with the other party stays in Azadchi.
+- [afzi-intro](https://github.com/mnhashemabadi/afzi-intro): I built Afzi to shorten an http or https address; opening the short link opens that same page.
+- [alweryar-intro](https://github.com/mnhashemabadi/alweryar-intro): I built Alweryar for collaboration on listing review and on sales for Alwer.
 
-یادداشت مهندسی: [docs/engineering.md](docs/engineering.md)
+یادداشت مهندسی کوتاه‌تر: [docs/engineering.md](docs/engineering.md)
 
-Engineering note: [docs/engineering.md](docs/engineering.md)
-
+Shorter engineering note: [docs/engineering.md](docs/engineering.md)
