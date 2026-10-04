@@ -2,7 +2,7 @@
 
 ## Overview
 
-Alwerchi is the home of shops that connect to Alwer. Goods and stock from a connected shop appear on the Alwer marketplace. The buyer stays on Alwer. The marketplace is [alwer.ir](https://alwer.ir).
+Alwerchi is the home of shops that connect to Alwer. The public homepage says a WordPress shop or a storefront is connected so goods and stock appear on the Alwer marketplace. The buyer stays on Alwer. Listing-review collaboration is described there as Alweryar. The marketplace is [alwer.ir](https://alwer.ir).
 
 ## Stack
 
@@ -10,7 +10,7 @@ The public site does not publish an implementation stack. This repository does n
 
 ## Specialties
 
-- Shop connection so goods and stock show on the Alwer marketplace
+- Shop connection, described on the public homepage as a WordPress shop or a storefront, so goods and stock show on the Alwer marketplace
 
 No library is named, because none is published on the public site.
 
